@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+*.xml
+.idea/dictionaries
+CustomConfig.iml
